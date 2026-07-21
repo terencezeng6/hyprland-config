@@ -78,9 +78,8 @@ return {
     kbWindowPip                = "SUPER + ALT + backslash",
     kbPinWindow                = "SUPER + P",
     kbWindowFullscreen         = "SUPER + F",
-    kbWindowBorderedFullscreen = "SUPER + ALT + F",
     kbToggleWindowFloating     = "SUPER + ALT + space",
-    kbCloseWindow              = "SUPER + Q",
+    kbCloseWindow              = "SUPER + W",
 
     -- Special workspaces toggles
     kbSpecialWs                = "SUPER + S",
@@ -91,7 +90,6 @@ return {
 
     -- Apps
     kbTerminal                 = "SUPER + Return",
-    kbBrowser                  = "SUPER + W",
     kbEditor                   = "SUPER + C",
     kbFileExplorer             = "SUPER + E",
 
@@ -100,6 +98,5 @@ return {
     kbShowSidebar              = "SUPER + N",
     kbClearNotifs              = "CTRL + ALT + C",
     kbShowPanels               = "SUPER + K",
-    kbLock                     = "SUPER + L",
-    kbRestoreLock              = "SUPER + ALT + L",
+    kbLock                     = "SUPER + Escape",
 }
